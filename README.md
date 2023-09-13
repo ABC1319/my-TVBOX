@@ -3,7 +3,7 @@
 1：多仓接口
 ````bash
 https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/ABC1319/my-TVBOX/blob/main/tvboxqq/自用.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/ABC1319/my-TVBOX/blob/main/tvboxqq/自个用啊.txt
 ````
 
 - 软件下载
